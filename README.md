@@ -6,7 +6,6 @@
  #### In _Last Seen_, you reconnect with three familiar names - Luna, Kai, and Mira, through conversations that unfold with typing effects, online/offline cues, and branching dialogue. Each chat carries its own tone of memory, change, and closure.
  ---
 ## 🛠 How to Play?
-
 ### Here's how it works:
 
 - #### Menu Screen: Enter your username to personalize the experience.
@@ -19,7 +18,6 @@
 ---
 
 ## 🎨 Features
-
 - #### Authentic Windows‑95 inspired UI with boxed menus and neon‑retro accents.
 
 - #### Typing animation that simulates real-time messaging.
@@ -34,7 +32,6 @@
 ---
 
 ## 🎮 Controls
-
 - #### ENTER → Confirm username, progress dialogue, restart game.
 
 - #### ESC → Quit game.
@@ -47,11 +44,12 @@
 ---
 
 ##  _Every conversation leaves a trace... Last Seen captures that fleeting nostalgia, reminding us that some moments online are worth holding onto._
----
 
-## 👤 Creator's Note:
 
-### ~ This project was created with passion, nostalgia, and a love for immersive storytelling. *Last Seen* is more than just a final requirement. ~ 
-### ~ It’s a reflection of how digital spaces can carry emotion, memory, and closure. Thank you for taking the time to explore it. ~
+##  Creator's Note:
+
+#### ~ This project was created with passion, nostalgia, and a love for immersive storytelling. *Last Seen* is more than just a final requirement. ~ 
+#### ~ It’s a reflection of how digital spaces can carry emotion, memory, and closure. Thank you for taking the time to explore it. ~
+
 
 -Calvin Jude A. Soliven
