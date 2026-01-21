@@ -1,6 +1,6 @@
 ## ✨ __Last Seen__ ✨ -   "where every chat feels real, and every goodbye matters.” 
 ## A Retro Chatroom Experience
-- ###  Step back into the nostalgia of old-school chatrooms, where every message feels personal and every choice shapes the story. 
+- ###  Step back into the nostalgia of old-school chatrooms, where every message feels personal and every choice shapes the story! 
 ---
  ## Game Overview:
  #### In _Last Seen_, you reconnect with three familiar names - Luna, Kai, and Mira, through conversations that unfold with typing effects, online/offline cues, and branching dialogue. Each chat carries its own tone of memory, change, and closure.
@@ -46,12 +46,12 @@
 - #### Backspace → Edit typed input.
 ---
 
-##  _Every conversation leaves a trace. Last Seen captures that fleeting nostalgia, reminding us that some moments online are worth holding onto._
+##  _Every conversation leaves a trace... Last Seen captures that fleeting nostalgia, reminding us that some moments online are worth holding onto._
 ---
 
 ## 👤 Creator's Note:
 
-### This project was created with passion, nostalgia, and a love for immersive storytelling. *Last Seen* is more than just a final requirement.  
-### It’s a reflection of how digital spaces can carry emotion, memory, and closure. Thank you for taking the time to explore it.
+### ~ This project was created with passion, nostalgia, and a love for immersive storytelling. *Last Seen* is more than just a final requirement. ~ 
+### ~ It’s a reflection of how digital spaces can carry emotion, memory, and closure. Thank you for taking the time to explore it. ~
 
 -Calvin Jude A. Soliven
